@@ -56,8 +56,8 @@ const projectsData = [
     description: "Project 5 description",
     image: "/images/projects/6.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "/facebook.com",
+    previewUrl: "/aasdasd.com",
   },
 ];
 
